@@ -1,0 +1,146 @@
+
+
+.section6 {
+  position: relative;
+  width:100%;
+  height:100vh;
+  background: #BBE5ED;
+}
+
+.slide {
+ 
+}
+
+.slide1 {
+  
+}
+.slide2 {
+  
+} 
+  
+.slide3 {
+ 
+}
+
+
+
+
+.slide-content {
+  position: relative;
+ 
+
+}
+
+.what_our{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 59px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #061A40;
+  margin-top: 24px;
+}
+  .content-section6{
+    position: relative;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 48px;
+  }
+    .content-section6{
+      position: relative;
+      display: flex;
+      flex-direction:row;
+      justify-content:center;
+      
+    }
+    .testinomial_container{
+      position: relative;
+      display: flex;
+      flex-direction:column;
+      justify-content:center;
+      margin-left: 48px;
+      
+    }
+
+    .testinomial_para{
+      width:388px;
+      font-family: Poppins;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 120%;
+      letter-spacing: 0.05em;
+      text-transform: capitalize;
+      color: #061A40;
+      text-align: left;
+    }
+    .person_name{
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 36px;
+      line-height: 44px;
+      /* identical to box height */
+      
+      text-align:left;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      
+      color: #FB3640;
+      
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+      margin-top: 12px;
+    }
+    .person_field{
+      font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+text-align:left;
+letter-spacing: 0.05em;
+text-transform: capitalize;
+
+color: #061A40;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    }
+
+
+.slide-content span {
+  font-size: 5rem;
+  color: #fff;
+}
+
+.arrow {
+  cursor: pointer;
+  position: absolute;
+  top:50%;
+  border: solid black;
+  border-width: 0px 2px 2px 0;
+  display: inline-block;
+  padding: 6px;
+}
+
+#arrow-left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  margin-left: 30px;
+  left: 100px;
+  
+}
+
+#arrow-right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  margin-right: 30px;
+  right: 100px;
+}
+
